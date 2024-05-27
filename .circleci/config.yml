@@ -11,7 +11,215 @@ jobs:
     docker:
       - image: ubuntu
     steps:
-      - checkout
+      - checkout<feed xmlns="http://wl Studio Code - Code Editing. Redefined.</title>
+<link type="application/atom+xml" hrefww.w3.org/2005/Atom">
+<title type="text" xml:lang="en">Visua="https://code.visualstudio.com/feed.xml" rel="self"/>
+<link type="text/html" href="https://code.visualstudio.com/" rel="alternate"/>
+<updated>2024-05-02T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/</id>
+<rights>Copyright (c) 2021, Microsoft, Inc.; all rights reserved.</rights>
+<entry>
+<title>Visual Studio Code April 2024</title>
+<link href="https://code.visualstudio.com/updates/v1_89"/>
+<updated>2024-05-02T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_89</id>
+<content type="html"> <p>Visual Studio Code April 2024</p> <p><a href="https://code.visualstudio.com/updates/v1_89">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>VS Code Extensions and WebAssembly</title>
+<link href="https://code.visualstudio.com/blogs/2024/05/08/wasm"/>
+<updated>2024-04-30T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2024/05/08/wasm</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2024/05/08/wasm">Read the full article</a></p> </content>
+<author>
+<name>Dirk Bäumer</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code Day 2024</title>
+<link href="https://code.visualstudio.com/blogs/2024/04/15/vscode-day"/>
+<updated>2024-04-15T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2024/04/15/vscode-day</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2024/04/15/vscode-day">Read the full article</a></p> </content>
+<author>
+<name>Reynald Adolphe</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code March 2024</title>
+<link href="https://code.visualstudio.com/updates/v1_88"/>
+<updated>2024-04-04T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_88</id>
+<content type="html"> <p>Visual Studio Code March 2024</p> <p><a href="https://code.visualstudio.com/updates/v1_88">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code February 2024</title>
+<link href="https://code.visualstudio.com/updates/v1_87"/>
+<updated>2024-02-28T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_87</id>
+<content type="html"> <p>Visual Studio Code February 2024</p> <p><a href="https://code.visualstudio.com/updates/v1_87">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code January 2024</title>
+<link href="https://code.visualstudio.com/updates/v1_86"/>
+<updated>2024-02-01T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_86</id>
+<content type="html"> <p>Visual Studio Code January 2024</p> <p><a href="https://code.visualstudio.com/updates/v1_86">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code November 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_85"/>
+<updated>2023-12-07T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_85</id>
+<content type="html"> <p>Visual Studio Code November 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_85">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Pursuit of wicked smartness in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter"/>
+<updated>2023-11-13T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter">Read the full article</a></p> </content>
+<author>
+<name>Chris Dias</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code October 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_84"/>
+<updated>2023-11-01T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_84</id>
+<content type="html"> <p>Visual Studio Code October 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_84">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code September 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_83"/>
+<updated>2023-10-04T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_83</id>
+<content type="html"> <p>Visual Studio Code September 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_83">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code August 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_82"/>
+<updated>2023-09-07T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_82</id>
+<content type="html"> <p>Visual Studio Code August 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_82">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code July 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_81"/>
+<updated>2023-08-03T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_81</id>
+<content type="html"> <p>Visual Studio Code July 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_81">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Shrinking VS Code with name mangling</title>
+<link href="https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode"/>
+<updated>2023-07-20T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode">Read the full article</a></p> </content>
+<author>
+<name>Matt Bierner</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code June 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_80"/>
+<updated>2023-07-06T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_80</id>
+<content type="html"> <p>Visual Studio Code June 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_80">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code May 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_79"/>
+<updated>2023-06-08T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_79</id>
+<content type="html"> <p>Visual Studio Code May 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_79">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>VS Code and WebAssemblies</title>
+<link href="https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi"/>
+<updated>2023-06-05T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi">Read the full article</a></p> </content>
+<author>
+<name>Dirk Bäumer</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code April 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_78"/>
+<updated>2023-05-03T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_78</id>
+<content type="html"> <p>Visual Studio Code April 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_78">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code Day 2023</title>
+<link href="https://code.visualstudio.com/blogs/2023/04/13/vscode-day"/>
+<updated>2023-04-13T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2023/04/13/vscode-day</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2023/04/13/vscode-day">Read the full article</a></p> </content>
+<author>
+<name>Burke Holland</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code March 2023</title>
+<link href="https://code.visualstudio.com/updates/v1_77"/>
+<updated>2023-03-30T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_77</id>
+<content type="html"> <p>Visual Studio Code March 2023</p> <p><a href="https://code.visualstudio.com/updates/v1_77">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code and GitHub Copilot AI</title>
+<link href="https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot"/>
+<updated>2023-03-30T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot</id>
+<content type="html"> <p></p> <p><a href="https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot">Read the full article</a></p> </content>
+<author>
+<name>Chris Dias</name>
+</author>
+</entry>
+</feed>
+
       - run:
           name: Check Node installation
           command: |

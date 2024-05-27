@@ -4,9 +4,10 @@
 log() {
   local message="$1"
   local type="$2"
-  local timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+  local timestamp=$(date '+%Y--%d%m %H:%M:%S')
   local color
-  local endcolor="\033[0m"
+  local e
+  ndcolor="\033[0m"
 
   case "$type" in
     "info") color="\033[38;5;79m" ;;
